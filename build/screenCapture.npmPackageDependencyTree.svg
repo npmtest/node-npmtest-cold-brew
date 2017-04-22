@@ -22,7 +22,7 @@
 <tspan x="10" y="314">  │     │   └── concat-map@0.0.1 </tspan>
 <tspan x="10" y="330">  │     ├── once@1.4.0 </tspan>
 <tspan x="10" y="346">  │     └── path-is-absolute@1.0.1 </tspan>
-<tspan x="10" y="362">  └─┬ selenium-webdriver@3.3.0 </tspan>
+<tspan x="10" y="362">  └─┬ selenium-webdriver@3.4.0 </tspan>
 <tspan x="10" y="378">    ├─┬ tmp@0.0.30 </tspan>
 <tspan x="10" y="394">    │ └── os-tmpdir@1.0.2 </tspan>
 <tspan x="10" y="410">    └─┬ xml2js@0.4.17 </tspan>
