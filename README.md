@@ -1,4 +1,7 @@
-# test coverage for  [cold-brew (v1.0.36)](https://github.com/team-jwd/cold-brew)  [![npm package](https://img.shields.io/npm/v/npmtest-cold-brew.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cold-brew) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cold-brew.svg)](https://travis-ci.org/npmtest/node-npmtest-cold-brew)
+# npmtest-cold-brew
+
+#### basic test-coverage for  [cold-brew (v1.0.36)](https://github.com/team-jwd/cold-brew)  [![npm package](https://img.shields.io/npm/v/npmtest-cold-brew.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cold-brew) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cold-brew.svg)](https://travis-ci.org/npmtest/node-npmtest-cold-brew)
+
 #### A testing module for TDD with apps that use the RTCPeerConnection API
 
 [![NPM](https://nodei.co/npm/cold-brew.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cold-brew)
@@ -98,7 +101,8 @@
         "generate-docs": "jsdoc ./cold-brew-test.js -d ./docs",
         "test": "mocha test/*.spec.js"
     },
-    "version": "1.0.36"
+    "version": "1.0.36",
+    "bin": {}
 }
 ```
 
